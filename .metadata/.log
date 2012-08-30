@@ -7,3 +7,9 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64
 
 !ENTRY com.android.ide.eclipse.adt 4 0 2012-08-30 19:32:57.481
 !MESSAGE Failed to load properties file for project 'AndroidTestApp'
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2012-08-30 19:38:57.636
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/hello_world
+
+!ENTRY org.eclipse.ui 2 2 2012-08-30 19:39:11.390
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
