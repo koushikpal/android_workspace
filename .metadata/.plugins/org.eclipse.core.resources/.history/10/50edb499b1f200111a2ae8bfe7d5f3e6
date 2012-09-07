@@ -1,0 +1,5 @@
+<LinearLayout android:orientation="horizontal">
+  <!-- two panes -->
+  <View android:id=""/>
+  <View android:id="main_pane"/>
+</LinearLayout>

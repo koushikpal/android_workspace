@@ -1,0 +1,4 @@
+<FrameLayout>
+  <!-- a single pane -->
+  <View android:id="main_pane"/>
+</FrameLayout>
